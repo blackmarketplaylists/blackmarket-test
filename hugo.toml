@@ -14,6 +14,7 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
 [params.homeInfoParams]
   Title = "Willkommen bei Black Market Playlists"
   Content = "Unterstützung für Künstler unter dem Radar."
+  
 [menu]
   [[menu.main]]
     name = "Home"
@@ -23,7 +24,7 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
   [[menu.main]]
     name = "Playlists"
     identifier = "playlists"
-    url = "#"
+    url = "/categories/"
     weight = 1
 
   [[menu.main]]
