@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'de-de'
 title = 'Black Market Playlists'
-theme = 'papermod'
+theme = 'github.com/adityatelange/hugo-PaperMod'
 
 [params]
   defaultTheme = "dark"
