@@ -13,69 +13,68 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
 [params.homeInfoParams]
   Title = "Willkommen bei Black Market Playlists"
   Content = "Unterstützung für Künstler unter dem Radar."
-
 [menu]
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 0
- 
- [[menu.main]]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 0
+
+  [[menu.main]]
     name = "Playlists"
     identifier = "playlists"
-    url = "/playlists/"
+    url = "#"
     weight = 1
 
   [[menu.main]]
     parent = "playlists"
     name = "Shoegaze"
     url = "/categories/shoegaze/"
-    weight = 2
+    weight = 1
 
   [[menu.main]]
     parent = "playlists"
     name = "Shoegaze Charts"
     url = "/categories/shoegaze-charts/"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     parent = "playlists"
     name = "Shoegaze Debuts"
     url = "/categories/shoegaze-debuts/"
-    weight = 4
+    weight = 3
 
   [[menu.main]]
     parent = "playlists"
     name = "Shoegaze Cover"
     url = "/categories/shoegaze-cover/"
-    weight = 5
+    weight = 4
 
   [[menu.main]]
     parent = "playlists"
     name = "Shoegaze with Saxophones"
     url = "/categories/shoegaze-with-saxophones/"
-    weight = 6
+    weight = 5
 
   [[menu.main]]
     parent = "playlists"
     name = "Lost Shoegaze"
     url = "/categories/lost-shoegaze/"
-    weight = 7
+    weight = 6
 
   [[menu.main]]
     parent = "playlists"
     name = "Countrygaze"
     url = "/categories/countrygaze/"
-    weight = 8
+    weight = 7
 
   [[menu.main]]
     parent = "playlists"
     name = "Punk"
     url = "/categories/punk/"
-    weight = 9
+    weight = 8
 
   [[menu.main]]
     parent = "playlists"
     name = "Venues"
     url = "/categories/venues/"
-    weight = 10
+    weight = 9
