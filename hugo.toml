@@ -24,7 +24,7 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
   [[menu.main]]
     name = "Playlists"
     identifier = "playlists"
-    url = "/categories/"
+    url = "#"
     weight = 1
 
   [[menu.main]]
