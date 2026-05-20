@@ -16,9 +16,37 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
 [menu]
   [[menu.main]]
     name = "Shoegaze"
-    url = "/tags/shoegaze/"
+    url = "/categories/shoegaze/"
     weight = 1
   [[menu.main]]
-    name = "Punk"
-    url = "/tags/punk/"
+    name = "Shoegaze Charts"
+    url = "/categories/shoegaze-charts/"
     weight = 2
+  [[menu.main]]
+    name = "Shoegaze Debuts"
+    url = "/categories/shoegaze-debuts/"
+    weight = 3
+  [[menu.main]]
+    name = "Shoegaze Cover"
+    url = "/categories/shoegaze-cover/"
+    weight = 4
+  [[menu.main]]
+    name = "Countrygaze"
+    url = "/categories/countrygaze/"
+    weight = 5
+  [[menu.main]]
+    name = "Lost Shoegaze"
+    url = "/categories/lost-shoegaze/"
+    weight = 6
+   [[menu.main]]
+    name = "Shoegaze with Saxophones"
+    url = "/categories/shoegaze-with-saxophones/"
+    weight = 7
+  [[menu.main]]
+    name = "Punk"
+    url = "/categories/punk/"
+    weight = 8
+  [[menu.main]]
+    name = "Venues"
+    url = "/categories/venues/"
+    weight = 9
