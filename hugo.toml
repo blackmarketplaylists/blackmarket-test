@@ -14,9 +14,10 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
   Content = "Unterstützung für Künstler unter dem Radar."
 
 [menu]
-  [[menu.main]]
+ [[menu.main]]
     name = "Playlists"
     identifier = "playlists"
+    url = "/playlists/"
     weight = 1
 
   [[menu.main]]
