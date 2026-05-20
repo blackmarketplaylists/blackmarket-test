@@ -1,0 +1,24 @@
+baseURL = '/'
+languageCode = 'de-de'
+title = 'Black Market Playlists'
+theme = 'papermod'
+
+[params]
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  ShowReadingTime = false
+  ShowShareButtons = false
+
+[params.homeInfoParams]
+  Title = "Willkommen bei Black Market Playlists"
+  Content = "Unterstützung für Künstler unter dem Radar."
+
+[menu]
+  [[menu.main]]
+    name = "Shoegaze"
+    url = "/tags/shoegaze/"
+    weight = 1
+  [[menu.main]]
+    name = "Punk"
+    url = "/tags/punk/"
+    weight = 2
