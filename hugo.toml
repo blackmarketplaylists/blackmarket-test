@@ -10,6 +10,7 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
   ShowShareButtons = false
   showMenu = true
   ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
 
 [params.homeInfoParams]
   Title = "Willkommen bei Black Market Playlists"
@@ -24,7 +25,7 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
   [[menu.main]]
     name = "Playlists"
     identifier = "playlists"
-    url = "#"
+    url = "/categories/"
     weight = 1
 
   [[menu.main]]
