@@ -81,3 +81,8 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
     name = "Venues"
     url = "/categories/venues/"
     weight = 9
+
+    [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
