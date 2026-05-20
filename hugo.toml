@@ -9,6 +9,7 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
   ShowReadingTime = false
   ShowShareButtons = false
   showMenu = true
+  ShowCodeCopyButtons = true
 
 [params.homeInfoParams]
   Title = "Willkommen bei Black Market Playlists"
