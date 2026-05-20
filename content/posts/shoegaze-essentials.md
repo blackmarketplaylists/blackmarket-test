@@ -9,4 +9,4 @@ Welcome to the Shoegaze Essentials. This playlist is dedicated entirely to suppo
 
 Here is the latest selection:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ncKjTrB167YW81fdXZ3An?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ncKjTrB167YW81fdXZ3An?si=da6741f4bf1d4942" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
