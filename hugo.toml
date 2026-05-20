@@ -8,12 +8,18 @@ theme = 'github.com/adityatelange/hugo-PaperMod'
   disableThemeToggle = true
   ShowReadingTime = false
   ShowShareButtons = false
+  showMenu = true
 
 [params.homeInfoParams]
   Title = "Willkommen bei Black Market Playlists"
   Content = "Unterstützung für Künstler unter dem Radar."
 
 [menu]
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 0
+ 
  [[menu.main]]
     name = "Playlists"
     identifier = "playlists"
